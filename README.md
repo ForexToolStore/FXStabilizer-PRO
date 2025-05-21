@@ -21,7 +21,7 @@
 
 <br>
 
-## How to Install and Use the Breakout Indicator
+## How to Install and Use the FXStabilizer-PRO
 
 1. Download the Indicator
    
