@@ -7,7 +7,7 @@
 
 ## 5 Key Features:
 
-✅ `Stable Performance`: Minimizes risk and maximizes consistent returns.
+✅ <b>`Stable Performance`</b>: Minimizes risk and maximizes consistent returns.
 
 ✅ `Stable Performance`: Minimizes risk and maximizes consistent returns.
 
