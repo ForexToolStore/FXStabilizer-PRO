@@ -8,10 +8,15 @@
 ## 5 Key Features:
 
 ✅ `Stable Performance`: Minimizes risk and maximizes consistent returns.
+
 ✅ `Stable Performance`: Minimizes risk and maximizes consistent returns.
+
 ✅ `Risk Management`: Advanced stop-loss and take-profit settings.
+
 ✅ `Fully Automated`: No need for manual intervention.
+
 ✅ `Works with Major Pairs`: Compatible with popular currency pairs.
+
 ✅ `Low Drawdown`: Designed to protect your capital.
 
 <br>
